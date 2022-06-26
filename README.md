@@ -1,2 +1,2 @@
-## Basic script for generating a random passowrd.
+## Basic password generator with Python.
 - Demo: https://luishcr.github.io/password-generator/
