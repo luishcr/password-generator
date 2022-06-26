@@ -1,2 +1,2 @@
 ## Basic script for generating a random passowrd.
-- Demo: 
+- Demo: https://luishcr.github.io/password-generator/
